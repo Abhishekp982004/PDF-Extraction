@@ -58,7 +58,7 @@ To demonstrate features:
 - Embed in markdown:
     ```
     
-    
+    See all screenshots and demo GIFs in [trial.pdf](./trial.pdf)
     ```
 
 ## Example Usage
