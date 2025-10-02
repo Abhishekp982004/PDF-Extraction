@@ -1,0 +1,5213 @@
+{
+  "filename": "3ea3e60903844b20a52032eeacd018d0_Probots (1).pdf",
+  "models": {
+    "pdfplumber": {
+      "pages": [
+        {
+          "page_number": 0,
+          "width_pts": 595,
+          "height_pts": 842,
+          "width_px": 1239,
+          "height_px": 1754,
+          "text": "Meeting Notes - 16/09/2025\n• 5th Sem, B.Tech CSE (AI & ML) @ PES University\n• Remote/Hybrid Fall, Winter and Summer - 2026 (On-Site)\n• SDE, Summer Analyst, AI, ML, DS, CyberSec, UI/UX/FullStackDev,\nBlockchain, IoT\n• Machine Learning, Cyber Security, Stack Devlopment\n• Bishop Cotton Boys’ School, Bengaluru ICSE 10th - 95.16%\nBASE PU College Rajajinagar, Bengaluru Kar State, PU XII - 94.5%\n• KCET 2023 -> PES University\n• Linux Dev > C/C++ Dev > Firmware Dev | 25k-40k+| 8(2 mon)-12mon\n• Research :\n“Radiation pollution and its impact on living creatures in and around\nBangalore”, Dr. Revanasiddappa M, Dept. of S & H, PES University,\nmade a prototype, 2nd Runner Up, Prakalp (Pioneer-2024), Hackathon/\nProject/Innovation/Startup Presentation Competition, KITCoE,\nKolhapur, Paper yet to be published.\n“Facial Paralysis Detection and Recovery Tracking Using Deep\nLearning and Digital Twin Models”, Dr. Pooja Agarwal, Capstone\n“Multimodal Generative Augmentation + Cross-Modal Learning for\nBipolar Disorder”, Dr. Arti Arya, Charperson Dept. of CSE (AI & ML),\nPES Univerity, AFML\n“Education Analytics: Linking Study Habits to Academic Performance,\npredictive models”, Dr. Suja CM, Dept. of CSE, PES Univeristy\n• Projects :\nFitium - Python based Fitness Monitoring System which aims at providing a Fitness\nTracker cum Analyzer using weight, height, steps etc for modern health analysis such as Heart\nRate assessment, BMI Calculation etc. It is a customizable lightweight application.\nMedSnap\n- MedSnap is a hospital management system developed using MERN stack and\nMongoDB. The system includes modern APIs, multiple Login Methods, Patient Profile, Scan\nReports, Receipts, Prescription etc. Integrated a QR based login system for easy patient access.\nLearnHub - E-Learning Platform, DBMS\nCRM App - Customer Relations Management System, SE",
+          "words": [
+            {
+              "text": "Meeting",
+              "bbox": [
+                209,
+                131,
+                451,
+                194
+              ]
+            },
+            {
+              "text": "Notes",
+              "bbox": [
+                469,
+                131,
+                645,
+                194
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                662,
+                131,
+                687,
+                194
+              ]
+            },
+            {
+              "text": "16/09/2025",
+              "bbox": [
+                705,
+                131,
+                1029,
+                194
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                226,
+                129,
+                257
+              ]
+            },
+            {
+              "text": "5th",
+              "bbox": [
+                144,
+                224,
+                188,
+                255
+              ]
+            },
+            {
+              "text": "Sem,",
+              "bbox": [
+                197,
+                224,
+                269,
+                255
+              ]
+            },
+            {
+              "text": "B.Tech",
+              "bbox": [
+                278,
+                224,
+                374,
+                255
+              ]
+            },
+            {
+              "text": "CSE",
+              "bbox": [
+                382,
+                224,
+                444,
+                255
+              ]
+            },
+            {
+              "text": "(AI",
+              "bbox": [
+                453,
+                224,
+                489,
+                255
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                498,
+                224,
+                518,
+                255
+              ]
+            },
+            {
+              "text": "ML)",
+              "bbox": [
+                526,
+                224,
+                579,
+                255
+              ]
+            },
+            {
+              "text": "@",
+              "bbox": [
+                588,
+                224,
+                613,
+                255
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                622,
+                224,
+                681,
+                255
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                690,
+                224,
+                828,
+                255
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                261,
+                129,
+                292
+              ]
+            },
+            {
+              "text": "Remote/Hybrid",
+              "bbox": [
+                144,
+                259,
+                356,
+                290
+              ]
+            },
+            {
+              "text": "Fall,",
+              "bbox": [
+                365,
+                259,
+                422,
+                290
+              ]
+            },
+            {
+              "text": "Winter",
+              "bbox": [
+                431,
+                259,
+                521,
+                290
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                530,
+                259,
+                583,
+                290
+              ]
+            },
+            {
+              "text": "Summer",
+              "bbox": [
+                591,
+                259,
+                709,
+                290
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                718,
+                259,
+                730,
+                290
+              ]
+            },
+            {
+              "text": "2026",
+              "bbox": [
+                739,
+                259,
+                808,
+                290
+              ]
+            },
+            {
+              "text": "(On-Site)",
+              "bbox": [
+                817,
+                259,
+                940,
+                290
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                297,
+                129,
+                328
+              ]
+            },
+            {
+              "text": "SDE,",
+              "bbox": [
+                144,
+                294,
+                214,
+                326
+              ]
+            },
+            {
+              "text": "Summer",
+              "bbox": [
+                223,
+                294,
+                341,
+                326
+              ]
+            },
+            {
+              "text": "Analyst,",
+              "bbox": [
+                349,
+                294,
+                460,
+                326
+              ]
+            },
+            {
+              "text": "AI,",
+              "bbox": [
+                469,
+                294,
+                506,
+                326
+              ]
+            },
+            {
+              "text": "ML,",
+              "bbox": [
+                515,
+                294,
+                568,
+                326
+              ]
+            },
+            {
+              "text": "DS,",
+              "bbox": [
+                577,
+                294,
+                628,
+                326
+              ]
+            },
+            {
+              "text": "CyberSec,",
+              "bbox": [
+                636,
+                294,
+                783,
+                326
+              ]
+            },
+            {
+              "text": "UI/UX/FullStackDev,",
+              "bbox": [
+                792,
+                294,
+                1075,
+                326
+              ]
+            },
+            {
+              "text": "Blockchain,",
+              "bbox": [
+                144,
+                330,
+                307,
+                361
+              ]
+            },
+            {
+              "text": "IoT",
+              "bbox": [
+                316,
+                330,
+                360,
+                361
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                367,
+                129,
+                399
+              ]
+            },
+            {
+              "text": "Machine",
+              "bbox": [
+                144,
+                365,
+                263,
+                397
+              ]
+            },
+            {
+              "text": "Learning,",
+              "bbox": [
+                272,
+                365,
+                402,
+                397
+              ]
+            },
+            {
+              "text": "Cyber",
+              "bbox": [
+                411,
+                365,
+                495,
+                397
+              ]
+            },
+            {
+              "text": "Security,",
+              "bbox": [
+                503,
+                365,
+                624,
+                397
+              ]
+            },
+            {
+              "text": "Stack",
+              "bbox": [
+                632,
+                365,
+                712,
+                397
+              ]
+            },
+            {
+              "text": "Devlopment",
+              "bbox": [
+                721,
+                365,
+                889,
+                397
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                403,
+                129,
+                434
+              ]
+            },
+            {
+              "text": "Bishop",
+              "bbox": [
+                144,
+                401,
+                242,
+                432
+              ]
+            },
+            {
+              "text": "Cotton",
+              "bbox": [
+                250,
+                401,
+                346,
+                432
+              ]
+            },
+            {
+              "text": "Boys’",
+              "bbox": [
+                355,
+                401,
+                434,
+                432
+              ]
+            },
+            {
+              "text": "School,",
+              "bbox": [
+                442,
+                401,
+                548,
+                432
+              ]
+            },
+            {
+              "text": "Bengaluru",
+              "bbox": [
+                557,
+                401,
+                699,
+                432
+              ]
+            },
+            {
+              "text": "ICSE",
+              "bbox": [
+                752,
+                401,
+                822,
+                432
+              ]
+            },
+            {
+              "text": "10th",
+              "bbox": [
+                830,
+                401,
+                892,
+                432
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                901,
+                401,
+                913,
+                432
+              ]
+            },
+            {
+              "text": "95.16%",
+              "bbox": [
+                922,
+                401,
+                1031,
+                432
+              ]
+            },
+            {
+              "text": "BASE",
+              "bbox": [
+                144,
+                436,
+                225,
+                467
+              ]
+            },
+            {
+              "text": "PU",
+              "bbox": [
+                234,
+                436,
+                277,
+                467
+              ]
+            },
+            {
+              "text": "College",
+              "bbox": [
+                286,
+                436,
+                391,
+                467
+              ]
+            },
+            {
+              "text": "Rajajinagar,",
+              "bbox": [
+                400,
+                436,
+                561,
+                467
+              ]
+            },
+            {
+              "text": "Bengaluru",
+              "bbox": [
+                570,
+                436,
+                712,
+                467
+              ]
+            },
+            {
+              "text": "Kar",
+              "bbox": [
+                755,
+                436,
+                803,
+                467
+              ]
+            },
+            {
+              "text": "State,",
+              "bbox": [
+                812,
+                436,
+                894,
+                467
+              ]
+            },
+            {
+              "text": "PU",
+              "bbox": [
+                903,
+                436,
+                946,
+                467
+              ]
+            },
+            {
+              "text": "XII",
+              "bbox": [
+                955,
+                436,
+                990,
+                467
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                998,
+                436,
+                1011,
+                467
+              ]
+            },
+            {
+              "text": "94.5%",
+              "bbox": [
+                1019,
+                436,
+                1111,
+                467
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                474,
+                129,
+                505
+              ]
+            },
+            {
+              "text": "KCET",
+              "bbox": [
+                144,
+                472,
+                224,
+                503
+              ]
+            },
+            {
+              "text": "2023",
+              "bbox": [
+                233,
+                472,
+                302,
+                503
+              ]
+            },
+            {
+              "text": "->",
+              "bbox": [
+                311,
+                472,
+                342,
+                503
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                351,
+                472,
+                410,
+                503
+              ]
+            },
+            {
+              "text": "University",
+              "bbox": [
+                419,
+                472,
+                557,
+                503
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                509,
+                129,
+                540
+              ]
+            },
+            {
+              "text": "Linux",
+              "bbox": [
+                144,
+                507,
+                219,
+                538
+              ]
+            },
+            {
+              "text": "Dev",
+              "bbox": [
+                228,
+                507,
+                282,
+                538
+              ]
+            },
+            {
+              "text": ">",
+              "bbox": [
+                291,
+                507,
+                310,
+                538
+              ]
+            },
+            {
+              "text": "C/C++",
+              "bbox": [
+                318,
+                507,
+                411,
+                538
+              ]
+            },
+            {
+              "text": "Dev",
+              "bbox": [
+                420,
+                507,
+                474,
+                538
+              ]
+            },
+            {
+              "text": ">",
+              "bbox": [
+                483,
+                507,
+                502,
+                538
+              ]
+            },
+            {
+              "text": "Firmware",
+              "bbox": [
+                511,
+                507,
+                640,
+                538
+              ]
+            },
+            {
+              "text": "Dev",
+              "bbox": [
+                648,
+                507,
+                703,
+                538
+              ]
+            },
+            {
+              "text": "|",
+              "bbox": [
+                711,
+                507,
+                718,
+                538
+              ]
+            },
+            {
+              "text": "25k-40k+|",
+              "bbox": [
+                736,
+                507,
+                875,
+                538
+              ]
+            },
+            {
+              "text": "8(2",
+              "bbox": [
+                884,
+                507,
+                927,
+                538
+              ]
+            },
+            {
+              "text": "mon)-12mon",
+              "bbox": [
+                936,
+                507,
+                1115,
+                538
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                544,
+                129,
+                576
+              ]
+            },
+            {
+              "text": "Research",
+              "bbox": [
+                144,
+                542,
+                275,
+                574
+              ]
+            },
+            {
+              "text": ":",
+              "bbox": [
+                284,
+                542,
+                293,
+                574
+              ]
+            },
+            {
+              "text": "“Radiation",
+              "bbox": [
+                118,
+                613,
+                264,
+                644
+              ]
+            },
+            {
+              "text": "pollution",
+              "bbox": [
+                273,
+                613,
+                393,
+                644
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                401,
+                613,
+                454,
+                644
+              ]
+            },
+            {
+              "text": "its",
+              "bbox": [
+                463,
+                613,
+                495,
+                644
+              ]
+            },
+            {
+              "text": "impact",
+              "bbox": [
+                504,
+                613,
+                599,
+                644
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                608,
+                613,
+                643,
+                644
+              ]
+            },
+            {
+              "text": "living",
+              "bbox": [
+                652,
+                613,
+                724,
+                644
+              ]
+            },
+            {
+              "text": "creatures",
+              "bbox": [
+                732,
+                613,
+                862,
+                644
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                871,
+                613,
+                895,
+                644
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                904,
+                613,
+                956,
+                644
+              ]
+            },
+            {
+              "text": "around",
+              "bbox": [
+                965,
+                613,
+                1063,
+                644
+              ]
+            },
+            {
+              "text": "Bangalore”,",
+              "bbox": [
+                118,
+                649,
+                282,
+                680
+              ]
+            },
+            {
+              "text": "Dr.",
+              "bbox": [
+                291,
+                649,
+                329,
+                680
+              ]
+            },
+            {
+              "text": "Revanasiddappa",
+              "bbox": [
+                338,
+                649,
+                573,
+                680
+              ]
+            },
+            {
+              "text": "M,",
+              "bbox": [
+                581,
+                649,
+                617,
+                680
+              ]
+            },
+            {
+              "text": "Dept.",
+              "bbox": [
+                626,
+                649,
+                702,
+                680
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                710,
+                649,
+                738,
+                680
+              ]
+            },
+            {
+              "text": "S",
+              "bbox": [
+                746,
+                649,
+                767,
+                680
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                775,
+                649,
+                795,
+                680
+              ]
+            },
+            {
+              "text": "H,",
+              "bbox": [
+                804,
+                649,
+                835,
+                680
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                844,
+                649,
+                903,
+                680
+              ]
+            },
+            {
+              "text": "University,",
+              "bbox": [
+                912,
+                649,
+                1056,
+                680
+              ]
+            },
+            {
+              "text": "made",
+              "bbox": [
+                118,
+                684,
+                197,
+                715
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                206,
+                684,
+                222,
+                715
+              ]
+            },
+            {
+              "text": "prototype,",
+              "bbox": [
+                231,
+                684,
+                375,
+                715
+              ]
+            },
+            {
+              "text": "2nd",
+              "bbox": [
+                383,
+                684,
+                437,
+                715
+              ]
+            },
+            {
+              "text": "Runner",
+              "bbox": [
+                445,
+                684,
+                546,
+                715
+              ]
+            },
+            {
+              "text": "Up,",
+              "bbox": [
+                555,
+                684,
+                605,
+                715
+              ]
+            },
+            {
+              "text": "Prakalp",
+              "bbox": [
+                613,
+                684,
+                719,
+                715
+              ]
+            },
+            {
+              "text": "(Pioneer-2024),",
+              "bbox": [
+                728,
+                684,
+                939,
+                715
+              ]
+            },
+            {
+              "text": "Hackathon/",
+              "bbox": [
+                957,
+                684,
+                1119,
+                715
+              ]
+            },
+            {
+              "text": "Project/Innovation/Startup",
+              "bbox": [
+                118,
+                719,
+                486,
+                751
+              ]
+            },
+            {
+              "text": "Presentation",
+              "bbox": [
+                494,
+                719,
+                670,
+                751
+              ]
+            },
+            {
+              "text": "Competition,",
+              "bbox": [
+                679,
+                719,
+                859,
+                751
+              ]
+            },
+            {
+              "text": "KITCoE,",
+              "bbox": [
+                867,
+                719,
+                982,
+                751
+              ]
+            },
+            {
+              "text": "Kolhapur,",
+              "bbox": [
+                118,
+                755,
+                250,
+                786
+              ]
+            },
+            {
+              "text": "Paper",
+              "bbox": [
+                259,
+                755,
+                342,
+                786
+              ]
+            },
+            {
+              "text": "yet",
+              "bbox": [
+                350,
+                755,
+                393,
+                786
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                401,
+                755,
+                429,
+                786
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                438,
+                755,
+                473,
+                786
+              ]
+            },
+            {
+              "text": "published.",
+              "bbox": [
+                482,
+                755,
+                627,
+                786
+              ]
+            },
+            {
+              "text": "“Facial",
+              "bbox": [
+                118,
+                826,
+                214,
+                857
+              ]
+            },
+            {
+              "text": "Paralysis",
+              "bbox": [
+                222,
+                826,
+                347,
+                857
+              ]
+            },
+            {
+              "text": "Detection",
+              "bbox": [
+                356,
+                826,
+                490,
+                857
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                499,
+                826,
+                552,
+                857
+              ]
+            },
+            {
+              "text": "Recovery",
+              "bbox": [
+                560,
+                826,
+                692,
+                857
+              ]
+            },
+            {
+              "text": "Tracking",
+              "bbox": [
+                700,
+                826,
+                818,
+                857
+              ]
+            },
+            {
+              "text": "Using",
+              "bbox": [
+                827,
+                826,
+                907,
+                857
+              ]
+            },
+            {
+              "text": "Deep",
+              "bbox": [
+                916,
+                826,
+                990,
+                857
+              ]
+            },
+            {
+              "text": "Learning",
+              "bbox": [
+                118,
+                861,
+                240,
+                892
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                248,
+                861,
+                301,
+                892
+              ]
+            },
+            {
+              "text": "Digital",
+              "bbox": [
+                310,
+                861,
+                397,
+                892
+              ]
+            },
+            {
+              "text": "Twin",
+              "bbox": [
+                406,
+                861,
+                468,
+                892
+              ]
+            },
+            {
+              "text": "Models”,",
+              "bbox": [
+                477,
+                861,
+                602,
+                892
+              ]
+            },
+            {
+              "text": "Dr.",
+              "bbox": [
+                611,
+                861,
+                649,
+                892
+              ]
+            },
+            {
+              "text": "Pooja",
+              "bbox": [
+                658,
+                861,
+                738,
+                892
+              ]
+            },
+            {
+              "text": "Agarwal,",
+              "bbox": [
+                746,
+                861,
+                868,
+                892
+              ]
+            },
+            {
+              "text": "Capstone",
+              "bbox": [
+                876,
+                861,
+                1012,
+                892
+              ]
+            },
+            {
+              "text": "“Multimodal",
+              "bbox": [
+                118,
+                932,
+                287,
+                963
+              ]
+            },
+            {
+              "text": "Generative",
+              "bbox": [
+                295,
+                932,
+                446,
+                963
+              ]
+            },
+            {
+              "text": "Augmentation",
+              "bbox": [
+                455,
+                932,
+                650,
+                963
+              ]
+            },
+            {
+              "text": "+",
+              "bbox": [
+                659,
+                932,
+                678,
+                963
+              ]
+            },
+            {
+              "text": "Cross-Modal",
+              "bbox": [
+                686,
+                932,
+                868,
+                963
+              ]
+            },
+            {
+              "text": "Learning",
+              "bbox": [
+                876,
+                932,
+                998,
+                963
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                1006,
+                932,
+                1044,
+                963
+              ]
+            },
+            {
+              "text": "Bipolar",
+              "bbox": [
+                118,
+                967,
+                217,
+                999
+              ]
+            },
+            {
+              "text": "Disorder”,",
+              "bbox": [
+                226,
+                967,
+                366,
+                999
+              ]
+            },
+            {
+              "text": "Dr.",
+              "bbox": [
+                375,
+                967,
+                413,
+                999
+              ]
+            },
+            {
+              "text": "Arti",
+              "bbox": [
+                422,
+                967,
+                469,
+                999
+              ]
+            },
+            {
+              "text": "Arya,",
+              "bbox": [
+                478,
+                967,
+                549,
+                999
+              ]
+            },
+            {
+              "text": "Charperson",
+              "bbox": [
+                558,
+                967,
+                722,
+                999
+              ]
+            },
+            {
+              "text": "Dept.",
+              "bbox": [
+                731,
+                967,
+                806,
+                999
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                815,
+                967,
+                842,
+                999
+              ]
+            },
+            {
+              "text": "CSE",
+              "bbox": [
+                851,
+                967,
+                913,
+                999
+              ]
+            },
+            {
+              "text": "(AI",
+              "bbox": [
+                922,
+                967,
+                958,
+                999
+              ]
+            },
+            {
+              "text": "&",
+              "bbox": [
+                967,
+                967,
+                986,
+                999
+              ]
+            },
+            {
+              "text": "ML),",
+              "bbox": [
+                995,
+                967,
+                1056,
+                999
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                118,
+                1003,
+                178,
+                1034
+              ]
+            },
+            {
+              "text": "Univerity,",
+              "bbox": [
+                187,
+                1003,
+                315,
+                1034
+              ]
+            },
+            {
+              "text": "AFML",
+              "bbox": [
+                324,
+                1003,
+                406,
+                1034
+              ]
+            },
+            {
+              "text": "“Education",
+              "bbox": [
+                118,
+                1074,
+                272,
+                1105
+              ]
+            },
+            {
+              "text": "Analytics:",
+              "bbox": [
+                281,
+                1074,
+                416,
+                1105
+              ]
+            },
+            {
+              "text": "Linking",
+              "bbox": [
+                424,
+                1074,
+                525,
+                1105
+              ]
+            },
+            {
+              "text": "Study",
+              "bbox": [
+                533,
+                1074,
+                615,
+                1105
+              ]
+            },
+            {
+              "text": "Habits",
+              "bbox": [
+                624,
+                1074,
+                714,
+                1105
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                723,
+                1074,
+                750,
+                1105
+              ]
+            },
+            {
+              "text": "Academic",
+              "bbox": [
+                759,
+                1074,
+                899,
+                1105
+              ]
+            },
+            {
+              "text": "Performance,",
+              "bbox": [
+                907,
+                1074,
+                1095,
+                1105
+              ]
+            },
+            {
+              "text": "predictive",
+              "bbox": [
+                118,
+                1109,
+                255,
+                1140
+              ]
+            },
+            {
+              "text": "models”,",
+              "bbox": [
+                264,
+                1109,
+                388,
+                1140
+              ]
+            },
+            {
+              "text": "Dr.",
+              "bbox": [
+                397,
+                1109,
+                435,
+                1140
+              ]
+            },
+            {
+              "text": "Suja",
+              "bbox": [
+                444,
+                1109,
+                505,
+                1140
+              ]
+            },
+            {
+              "text": "CM,",
+              "bbox": [
+                514,
+                1109,
+                572,
+                1140
+              ]
+            },
+            {
+              "text": "Dept.",
+              "bbox": [
+                581,
+                1109,
+                657,
+                1140
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                665,
+                1109,
+                693,
+                1140
+              ]
+            },
+            {
+              "text": "CSE,",
+              "bbox": [
+                701,
+                1109,
+                772,
+                1140
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                780,
+                1109,
+                840,
+                1140
+              ]
+            },
+            {
+              "text": "Univeristy",
+              "bbox": [
+                849,
+                1109,
+                986,
+                1140
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                1182,
+                129,
+                1213
+              ]
+            },
+            {
+              "text": "Projects",
+              "bbox": [
+                144,
+                1180,
+                258,
+                1211
+              ]
+            },
+            {
+              "text": ":",
+              "bbox": [
+                267,
+                1180,
+                275,
+                1211
+              ]
+            },
+            {
+              "text": "Fitium",
+              "bbox": [
+                118,
+                1251,
+                204,
+                1282
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                210,
+                1257,
+                219,
+                1280
+              ]
+            },
+            {
+              "text": "Python",
+              "bbox": [
+                226,
+                1256,
+                304,
+                1281
+              ]
+            },
+            {
+              "text": "based",
+              "bbox": [
+                311,
+                1256,
+                380,
+                1281
+              ]
+            },
+            {
+              "text": "Fitness",
+              "bbox": [
+                387,
+                1256,
+                467,
+                1281
+              ]
+            },
+            {
+              "text": "Monitoring",
+              "bbox": [
+                474,
+                1256,
+                594,
+                1281
+              ]
+            },
+            {
+              "text": "System",
+              "bbox": [
+                601,
+                1256,
+                685,
+                1281
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                692,
+                1256,
+                758,
+                1281
+              ]
+            },
+            {
+              "text": "aims",
+              "bbox": [
+                765,
+                1256,
+                817,
+                1281
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                824,
+                1256,
+                846,
+                1281
+              ]
+            },
+            {
+              "text": "providing",
+              "bbox": [
+                853,
+                1256,
+                956,
+                1281
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                963,
+                1256,
+                977,
+                1281
+              ]
+            },
+            {
+              "text": "Fitness",
+              "bbox": [
+                984,
+                1256,
+                1064,
+                1281
+              ]
+            },
+            {
+              "text": "Tracker",
+              "bbox": [
+                118,
+                1286,
+                200,
+                1311
+              ]
+            },
+            {
+              "text": "cum",
+              "bbox": [
+                207,
+                1286,
+                256,
+                1311
+              ]
+            },
+            {
+              "text": "Analyzer",
+              "bbox": [
+                263,
+                1286,
+                358,
+                1311
+              ]
+            },
+            {
+              "text": "using",
+              "bbox": [
+                365,
+                1286,
+                425,
+                1311
+              ]
+            },
+            {
+              "text": "weight,",
+              "bbox": [
+                432,
+                1286,
+                513,
+                1311
+              ]
+            },
+            {
+              "text": "height,",
+              "bbox": [
+                520,
+                1288,
+                590,
+                1311
+              ]
+            },
+            {
+              "text": "steps",
+              "bbox": [
+                596,
+                1288,
+                652,
+                1311
+              ]
+            },
+            {
+              "text": "etc",
+              "bbox": [
+                659,
+                1288,
+                690,
+                1311
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                697,
+                1288,
+                724,
+                1311
+              ]
+            },
+            {
+              "text": "modern",
+              "bbox": [
+                731,
+                1288,
+                810,
+                1311
+              ]
+            },
+            {
+              "text": "health",
+              "bbox": [
+                816,
+                1288,
+                879,
+                1311
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                885,
+                1288,
+                967,
+                1311
+              ]
+            },
+            {
+              "text": "such",
+              "bbox": [
+                973,
+                1288,
+                1023,
+                1311
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                1029,
+                1288,
+                1053,
+                1311
+              ]
+            },
+            {
+              "text": "Heart",
+              "bbox": [
+                1059,
+                1288,
+                1115,
+                1311
+              ]
+            },
+            {
+              "text": "Rate",
+              "bbox": [
+                118,
+                1313,
+                166,
+                1336
+              ]
+            },
+            {
+              "text": "assessment,",
+              "bbox": [
+                172,
+                1313,
+                301,
+                1336
+              ]
+            },
+            {
+              "text": "BMI",
+              "bbox": [
+                307,
+                1313,
+                349,
+                1336
+              ]
+            },
+            {
+              "text": "Calculation",
+              "bbox": [
+                355,
+                1313,
+                470,
+                1336
+              ]
+            },
+            {
+              "text": "etc.",
+              "bbox": [
+                476,
+                1313,
+                514,
+                1336
+              ]
+            },
+            {
+              "text": "It",
+              "bbox": [
+                521,
+                1313,
+                534,
+                1336
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                540,
+                1313,
+                557,
+                1336
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                563,
+                1313,
+                575,
+                1336
+              ]
+            },
+            {
+              "text": "customizable",
+              "bbox": [
+                582,
+                1313,
+                718,
+                1336
+              ]
+            },
+            {
+              "text": "lightweight",
+              "bbox": [
+                724,
+                1313,
+                835,
+                1336
+              ]
+            },
+            {
+              "text": "application.",
+              "bbox": [
+                841,
+                1313,
+                960,
+                1336
+              ]
+            },
+            {
+              "text": "MedSnap",
+              "bbox": [
+                118,
+                1365,
+                254,
+                1397
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                260,
+                1372,
+                269,
+                1395
+              ]
+            },
+            {
+              "text": "MedSnap",
+              "bbox": [
+                275,
+                1372,
+                375,
+                1395
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                381,
+                1372,
+                398,
+                1395
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                404,
+                1372,
+                416,
+                1395
+              ]
+            },
+            {
+              "text": "hospital",
+              "bbox": [
+                423,
+                1372,
+                503,
+                1395
+              ]
+            },
+            {
+              "text": "management",
+              "bbox": [
+                510,
+                1372,
+                644,
+                1395
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                650,
+                1372,
+                724,
+                1395
+              ]
+            },
+            {
+              "text": "developed",
+              "bbox": [
+                730,
+                1372,
+                837,
+                1395
+              ]
+            },
+            {
+              "text": "using",
+              "bbox": [
+                844,
+                1372,
+                899,
+                1395
+              ]
+            },
+            {
+              "text": "MERN",
+              "bbox": [
+                905,
+                1372,
+                972,
+                1395
+              ]
+            },
+            {
+              "text": "stack",
+              "bbox": [
+                978,
+                1372,
+                1033,
+                1395
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                1040,
+                1372,
+                1078,
+                1395
+              ]
+            },
+            {
+              "text": "MongoDB.",
+              "bbox": [
+                118,
+                1399,
+                229,
+                1422
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                235,
+                1399,
+                273,
+                1422
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                280,
+                1399,
+                353,
+                1422
+              ]
+            },
+            {
+              "text": "includes",
+              "bbox": [
+                359,
+                1399,
+                445,
+                1422
+              ]
+            },
+            {
+              "text": "modern",
+              "bbox": [
+                451,
+                1399,
+                530,
+                1422
+              ]
+            },
+            {
+              "text": "APIs,",
+              "bbox": [
+                537,
+                1399,
+                590,
+                1422
+              ]
+            },
+            {
+              "text": "multiple",
+              "bbox": [
+                597,
+                1399,
+                677,
+                1422
+              ]
+            },
+            {
+              "text": "Login",
+              "bbox": [
+                684,
+                1399,
+                741,
+                1422
+              ]
+            },
+            {
+              "text": "Methods,",
+              "bbox": [
+                747,
+                1399,
+                844,
+                1422
+              ]
+            },
+            {
+              "text": "Patient",
+              "bbox": [
+                850,
+                1399,
+                922,
+                1422
+              ]
+            },
+            {
+              "text": "Profile,",
+              "bbox": [
+                928,
+                1399,
+                999,
+                1422
+              ]
+            },
+            {
+              "text": "Scan",
+              "bbox": [
+                1005,
+                1399,
+                1058,
+                1422
+              ]
+            },
+            {
+              "text": "Reports,",
+              "bbox": [
+                118,
+                1424,
+                206,
+                1447
+              ]
+            },
+            {
+              "text": "Receipts,",
+              "bbox": [
+                212,
+                1424,
+                308,
+                1447
+              ]
+            },
+            {
+              "text": "Prescription",
+              "bbox": [
+                315,
+                1424,
+                437,
+                1447
+              ]
+            },
+            {
+              "text": "etc.",
+              "bbox": [
+                444,
+                1424,
+                482,
+                1447
+              ]
+            },
+            {
+              "text": "Integrated",
+              "bbox": [
+                488,
+                1424,
+                593,
+                1447
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                599,
+                1424,
+                611,
+                1447
+              ]
+            },
+            {
+              "text": "QR",
+              "bbox": [
+                618,
+                1424,
+                651,
+                1447
+              ]
+            },
+            {
+              "text": "based",
+              "bbox": [
+                657,
+                1424,
+                721,
+                1447
+              ]
+            },
+            {
+              "text": "login",
+              "bbox": [
+                727,
+                1424,
+                776,
+                1447
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                783,
+                1424,
+                856,
+                1447
+              ]
+            },
+            {
+              "text": "for",
+              "bbox": [
+                862,
+                1424,
+                890,
+                1447
+              ]
+            },
+            {
+              "text": "easy",
+              "bbox": [
+                896,
+                1424,
+                944,
+                1447
+              ]
+            },
+            {
+              "text": "patient",
+              "bbox": [
+                950,
+                1424,
+                1021,
+                1447
+              ]
+            },
+            {
+              "text": "access.",
+              "bbox": [
+                1027,
+                1424,
+                1106,
+                1447
+              ]
+            },
+            {
+              "text": "LearnHub",
+              "bbox": [
+                118,
+                1476,
+                256,
+                1507
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                265,
+                1476,
+                277,
+                1507
+              ]
+            },
+            {
+              "text": "E-Learning",
+              "bbox": [
+                286,
+                1476,
+                438,
+                1507
+              ]
+            },
+            {
+              "text": "Platform,",
+              "bbox": [
+                447,
+                1476,
+                574,
+                1507
+              ]
+            },
+            {
+              "text": "DBMS",
+              "bbox": [
+                582,
+                1476,
+                673,
+                1507
+              ]
+            },
+            {
+              "text": "CRM",
+              "bbox": [
+                118,
+                1547,
+                189,
+                1578
+              ]
+            },
+            {
+              "text": "App",
+              "bbox": [
+                198,
+                1547,
+                255,
+                1578
+              ]
+            },
+            {
+              "text": "-",
+              "bbox": [
+                264,
+                1547,
+                276,
+                1578
+              ]
+            },
+            {
+              "text": "Customer",
+              "bbox": [
+                285,
+                1547,
+                422,
+                1578
+              ]
+            },
+            {
+              "text": "Relations",
+              "bbox": [
+                431,
+                1547,
+                560,
+                1578
+              ]
+            },
+            {
+              "text": "Management",
+              "bbox": [
+                569,
+                1547,
+                753,
+                1578
+              ]
+            },
+            {
+              "text": "System,",
+              "bbox": [
+                761,
+                1547,
+                875,
+                1578
+              ]
+            },
+            {
+              "text": "SE",
+              "bbox": [
+                884,
+                1547,
+                923,
+                1578
+              ]
+            }
+          ],
+          "tables": []
+        },
+        {
+          "page_number": 1,
+          "width_pts": 595,
+          "height_pts": 842,
+          "width_px": 1239,
+          "height_px": 1754,
+          "text": "Modern Fire Alarm System\nThe system utilizes a Gas/Smoke Sensor (MQ-2), Temperature Sensor\n(LM35CAZ) and Flame Sensor to monitor environmental conditions and\nidentify fire-related anomalies. When a fire hazard is detected, the\nsystem triggers an alarm(buzzer and LED light indication) and sends\ninstant alerts to the system with a UI website which will display all\nthe real time values that the system measures and cautions the\nuser in case of a Fire. Additionally real-time Temperature value(in °C)\nand flame/gas indication(Boolean) will be displayed on an\ninbuilt LCD display. It can be run on a 9V battery(can also be powered\nby the system when connected).\nWe have also incorporated detailed analysis using multiple\ngraphs(temperature and gas values plotted against time-utilizes\nlatest 100 data points) based on various data points collected\nduring fires which helps in prediction and analysis of potential fire\nrisks which can be avoided in the future. This model breaks the\nbarriers and drawbacks of traditional Fire Alarm Systems through\nmodern technological integrations. This model can also be used to\nalert remote users through a Wi-Fi module(ESP8266/ESP32) or a\nGSM module making it highly flexible.\n• ACHIEVEMENTS\n• Prakalp (Pioneer-24)\n• Math Day 2024 (SAMKALANAM): 1st Runner-Up in Treasure Hunt of\nSAMKALANAM-2024 as part of Math Day-2024 celebrations organized by\nScience and Humanities Department (S&H), PES University.\n• Good Coder Competition (GCC) Hackathon: Secured 14th rank in Good Coder\nCompetition (GCC) Hackathon at PES University, organized by the Science\nand Humanities Department (S&H). The competition saw over 342\nregistrations, and the top 50 participants were recognized.\n• CERTIFICATIONS\n◦ Problem Solving BY Hackerrank\n◦ Career Essentials in Cybersecurity by Microsoft and LinkedIn\n◦ Career Essentials in Data Analysis by Microsoft and LinkedIn\n◦ Career Essentials in Generative AI by Microsoft and LinkedIn",
+          "words": [
+            {
+              "text": "Modern",
+              "bbox": [
+                118,
+                122,
+                227,
+                153
+              ]
+            },
+            {
+              "text": "Fire",
+              "bbox": [
+                236,
+                122,
+                287,
+                153
+              ]
+            },
+            {
+              "text": "Alarm",
+              "bbox": [
+                296,
+                122,
+                377,
+                153
+              ]
+            },
+            {
+              "text": "System",
+              "bbox": [
+                386,
+                122,
+                490,
+                153
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                118,
+                192,
+                170,
+                224
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                179,
+                192,
+                279,
+                224
+              ]
+            },
+            {
+              "text": "utilizes",
+              "bbox": [
+                288,
+                192,
+                383,
+                224
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                392,
+                192,
+                409,
+                224
+              ]
+            },
+            {
+              "text": "Gas/Smoke",
+              "bbox": [
+                417,
+                192,
+                582,
+                224
+              ]
+            },
+            {
+              "text": "Sensor",
+              "bbox": [
+                591,
+                192,
+                689,
+                224
+              ]
+            },
+            {
+              "text": "(MQ-2),",
+              "bbox": [
+                698,
+                192,
+                803,
+                224
+              ]
+            },
+            {
+              "text": "Temperature",
+              "bbox": [
+                812,
+                192,
+                986,
+                224
+              ]
+            },
+            {
+              "text": "Sensor",
+              "bbox": [
+                995,
+                192,
+                1093,
+                224
+              ]
+            },
+            {
+              "text": "(LM35CAZ)",
+              "bbox": [
+                118,
+                228,
+                276,
+                259
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                284,
+                228,
+                337,
+                259
+              ]
+            },
+            {
+              "text": "Flame",
+              "bbox": [
+                346,
+                228,
+                431,
+                259
+              ]
+            },
+            {
+              "text": "Sensor",
+              "bbox": [
+                440,
+                228,
+                538,
+                259
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                547,
+                228,
+                574,
+                259
+              ]
+            },
+            {
+              "text": "monitor",
+              "bbox": [
+                583,
+                228,
+                690,
+                259
+              ]
+            },
+            {
+              "text": "environmental",
+              "bbox": [
+                699,
+                228,
+                895,
+                259
+              ]
+            },
+            {
+              "text": "conditions",
+              "bbox": [
+                904,
+                228,
+                1049,
+                259
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                1058,
+                228,
+                1110,
+                259
+              ]
+            },
+            {
+              "text": "identify",
+              "bbox": [
+                118,
+                263,
+                220,
+                294
+              ]
+            },
+            {
+              "text": "fire-related",
+              "bbox": [
+                228,
+                263,
+                379,
+                294
+              ]
+            },
+            {
+              "text": "anomalies.",
+              "bbox": [
+                387,
+                263,
+                538,
+                294
+              ]
+            },
+            {
+              "text": "When",
+              "bbox": [
+                547,
+                263,
+                627,
+                294
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                636,
+                263,
+                653,
+                294
+              ]
+            },
+            {
+              "text": "fire",
+              "bbox": [
+                661,
+                263,
+                704,
+                294
+              ]
+            },
+            {
+              "text": "hazard",
+              "bbox": [
+                713,
+                263,
+                807,
+                294
+              ]
+            },
+            {
+              "text": "is",
+              "bbox": [
+                816,
+                263,
+                838,
+                294
+              ]
+            },
+            {
+              "text": "detected,",
+              "bbox": [
+                847,
+                263,
+                980,
+                294
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                988,
+                263,
+                1032,
+                294
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                118,
+                299,
+                218,
+                330
+              ]
+            },
+            {
+              "text": "triggers",
+              "bbox": [
+                227,
+                299,
+                333,
+                330
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                342,
+                299,
+                376,
+                330
+              ]
+            },
+            {
+              "text": "alarm(buzzer",
+              "bbox": [
+                385,
+                299,
+                563,
+                330
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                572,
+                299,
+                625,
+                330
+              ]
+            },
+            {
+              "text": "LED",
+              "bbox": [
+                633,
+                299,
+                692,
+                330
+              ]
+            },
+            {
+              "text": "light",
+              "bbox": [
+                700,
+                299,
+                760,
+                330
+              ]
+            },
+            {
+              "text": "indication)",
+              "bbox": [
+                768,
+                299,
+                912,
+                330
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                920,
+                299,
+                973,
+                330
+              ]
+            },
+            {
+              "text": "sends",
+              "bbox": [
+                982,
+                299,
+                1066,
+                330
+              ]
+            },
+            {
+              "text": "instant",
+              "bbox": [
+                118,
+                336,
+                222,
+                367
+              ]
+            },
+            {
+              "text": "alerts",
+              "bbox": [
+                231,
+                336,
+                314,
+                367
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                323,
+                336,
+                353,
+                367
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                362,
+                336,
+                410,
+                367
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                419,
+                336,
+                526,
+                367
+              ]
+            },
+            {
+              "text": "with",
+              "bbox": [
+                534,
+                336,
+                599,
+                367
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                607,
+                336,
+                625,
+                367
+              ]
+            },
+            {
+              "text": "UI",
+              "bbox": [
+                634,
+                336,
+                666,
+                367
+              ]
+            },
+            {
+              "text": "website",
+              "bbox": [
+                675,
+                336,
+                791,
+                367
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                800,
+                336,
+                889,
+                367
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                898,
+                336,
+                948,
+                367
+              ]
+            },
+            {
+              "text": "display",
+              "bbox": [
+                956,
+                336,
+                1061,
+                367
+              ]
+            },
+            {
+              "text": "all",
+              "bbox": [
+                1070,
+                336,
+                1104,
+                367
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                118,
+                374,
+                167,
+                405
+              ]
+            },
+            {
+              "text": "real",
+              "bbox": [
+                176,
+                374,
+                231,
+                405
+              ]
+            },
+            {
+              "text": "time",
+              "bbox": [
+                240,
+                374,
+                306,
+                405
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                314,
+                374,
+                410,
+                405
+              ]
+            },
+            {
+              "text": "that",
+              "bbox": [
+                419,
+                374,
+                479,
+                405
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                487,
+                374,
+                536,
+                405
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                545,
+                374,
+                651,
+                405
+              ]
+            },
+            {
+              "text": "measures",
+              "bbox": [
+                660,
+                374,
+                805,
+                405
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                814,
+                374,
+                870,
+                405
+              ]
+            },
+            {
+              "text": "cautions",
+              "bbox": [
+                879,
+                374,
+                1007,
+                405
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                1015,
+                374,
+                1064,
+                405
+              ]
+            },
+            {
+              "text": "user",
+              "bbox": [
+                118,
+                411,
+                184,
+                442
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                192,
+                411,
+                220,
+                442
+              ]
+            },
+            {
+              "text": "case",
+              "bbox": [
+                228,
+                411,
+                298,
+                442
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                306,
+                411,
+                336,
+                442
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                345,
+                411,
+                363,
+                442
+              ]
+            },
+            {
+              "text": "Fire.",
+              "bbox": [
+                371,
+                411,
+                436,
+                442
+              ]
+            },
+            {
+              "text": "Additionally",
+              "bbox": [
+                445,
+                411,
+                607,
+                442
+              ]
+            },
+            {
+              "text": "real-time",
+              "bbox": [
+                616,
+                411,
+                739,
+                442
+              ]
+            },
+            {
+              "text": "Temperature",
+              "bbox": [
+                747,
+                411,
+                922,
+                442
+              ]
+            },
+            {
+              "text": "value(in",
+              "bbox": [
+                930,
+                411,
+                1036,
+                442
+              ]
+            },
+            {
+              "text": "°C)",
+              "bbox": [
+                1045,
+                411,
+                1088,
+                442
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                118,
+                447,
+                171,
+                478
+              ]
+            },
+            {
+              "text": "flame/gas",
+              "bbox": [
+                180,
+                447,
+                317,
+                478
+              ]
+            },
+            {
+              "text": "indication(Boolean)",
+              "bbox": [
+                325,
+                447,
+                592,
+                478
+              ]
+            },
+            {
+              "text": "will",
+              "bbox": [
+                601,
+                447,
+                645,
+                478
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                654,
+                447,
+                689,
+                478
+              ]
+            },
+            {
+              "text": "displayed",
+              "bbox": [
+                698,
+                447,
+                832,
+                478
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                841,
+                447,
+                876,
+                478
+              ]
+            },
+            {
+              "text": "an",
+              "bbox": [
+                885,
+                447,
+                919,
+                478
+              ]
+            },
+            {
+              "text": "inbuilt",
+              "bbox": [
+                118,
+                482,
+                202,
+                513
+              ]
+            },
+            {
+              "text": "LCD",
+              "bbox": [
+                211,
+                482,
+                273,
+                513
+              ]
+            },
+            {
+              "text": "display.",
+              "bbox": [
+                282,
+                482,
+                387,
+                513
+              ]
+            },
+            {
+              "text": "It",
+              "bbox": [
+                396,
+                482,
+                413,
+                513
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                422,
+                482,
+                473,
+                513
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                482,
+                482,
+                517,
+                513
+              ]
+            },
+            {
+              "text": "run",
+              "bbox": [
+                526,
+                482,
+                571,
+                513
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                580,
+                482,
+                615,
+                513
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                624,
+                482,
+                640,
+                513
+              ]
+            },
+            {
+              "text": "9V",
+              "bbox": [
+                649,
+                482,
+                686,
+                513
+              ]
+            },
+            {
+              "text": "battery(can",
+              "bbox": [
+                694,
+                482,
+                851,
+                513
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                860,
+                482,
+                917,
+                513
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                926,
+                482,
+                961,
+                513
+              ]
+            },
+            {
+              "text": "powered",
+              "bbox": [
+                970,
+                482,
+                1092,
+                513
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                118,
+                517,
+                152,
+                549
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                161,
+                517,
+                205,
+                549
+              ]
+            },
+            {
+              "text": "system",
+              "bbox": [
+                214,
+                517,
+                314,
+                549
+              ]
+            },
+            {
+              "text": "when",
+              "bbox": [
+                323,
+                517,
+                398,
+                549
+              ]
+            },
+            {
+              "text": "connected).",
+              "bbox": [
+                407,
+                517,
+                572,
+                549
+              ]
+            },
+            {
+              "text": "We",
+              "bbox": [
+                118,
+                555,
+                164,
+                586
+              ]
+            },
+            {
+              "text": "have",
+              "bbox": [
+                173,
+                555,
+                244,
+                586
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                252,
+                555,
+                313,
+                586
+              ]
+            },
+            {
+              "text": "incorporated",
+              "bbox": [
+                322,
+                555,
+                514,
+                586
+              ]
+            },
+            {
+              "text": "detailed",
+              "bbox": [
+                522,
+                555,
+                642,
+                586
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                651,
+                555,
+                770,
+                586
+              ]
+            },
+            {
+              "text": "using",
+              "bbox": [
+                779,
+                555,
+                861,
+                586
+              ]
+            },
+            {
+              "text": "multiple",
+              "bbox": [
+                869,
+                555,
+                990,
+                586
+              ]
+            },
+            {
+              "text": "graphs(temperature",
+              "bbox": [
+                118,
+                592,
+                416,
+                624
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                425,
+                592,
+                481,
+                624
+              ]
+            },
+            {
+              "text": "gas",
+              "bbox": [
+                490,
+                592,
+                543,
+                624
+              ]
+            },
+            {
+              "text": "values",
+              "bbox": [
+                552,
+                592,
+                647,
+                624
+              ]
+            },
+            {
+              "text": "plotted",
+              "bbox": [
+                656,
+                592,
+                762,
+                624
+              ]
+            },
+            {
+              "text": "against",
+              "bbox": [
+                770,
+                592,
+                880,
+                624
+              ]
+            },
+            {
+              "text": "time-utilizes",
+              "bbox": [
+                889,
+                592,
+                1072,
+                624
+              ]
+            },
+            {
+              "text": "latest",
+              "bbox": [
+                118,
+                630,
+                202,
+                661
+              ]
+            },
+            {
+              "text": "100",
+              "bbox": [
+                210,
+                630,
+                262,
+                661
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                271,
+                630,
+                338,
+                661
+              ]
+            },
+            {
+              "text": "points)",
+              "bbox": [
+                346,
+                630,
+                448,
+                661
+              ]
+            },
+            {
+              "text": "based",
+              "bbox": [
+                457,
+                630,
+                547,
+                661
+              ]
+            },
+            {
+              "text": "on",
+              "bbox": [
+                556,
+                630,
+                593,
+                661
+              ]
+            },
+            {
+              "text": "various",
+              "bbox": [
+                602,
+                630,
+                710,
+                661
+              ]
+            },
+            {
+              "text": "data",
+              "bbox": [
+                719,
+                630,
+                786,
+                661
+              ]
+            },
+            {
+              "text": "points",
+              "bbox": [
+                794,
+                630,
+                887,
+                661
+              ]
+            },
+            {
+              "text": "collected",
+              "bbox": [
+                896,
+                630,
+                1032,
+                661
+              ]
+            },
+            {
+              "text": "during",
+              "bbox": [
+                118,
+                667,
+                215,
+                699
+              ]
+            },
+            {
+              "text": "fires",
+              "bbox": [
+                224,
+                667,
+                288,
+                699
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                297,
+                667,
+                386,
+                699
+              ]
+            },
+            {
+              "text": "helps",
+              "bbox": [
+                395,
+                667,
+                475,
+                699
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                484,
+                667,
+                511,
+                699
+              ]
+            },
+            {
+              "text": "prediction",
+              "bbox": [
+                520,
+                667,
+                670,
+                699
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                679,
+                667,
+                735,
+                699
+              ]
+            },
+            {
+              "text": "analysis",
+              "bbox": [
+                744,
+                667,
+                864,
+                699
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                872,
+                667,
+                902,
+                699
+              ]
+            },
+            {
+              "text": "potential",
+              "bbox": [
+                911,
+                667,
+                1043,
+                699
+              ]
+            },
+            {
+              "text": "fire",
+              "bbox": [
+                1051,
+                667,
+                1100,
+                699
+              ]
+            },
+            {
+              "text": "risks",
+              "bbox": [
+                118,
+                705,
+                188,
+                736
+              ]
+            },
+            {
+              "text": "which",
+              "bbox": [
+                197,
+                705,
+                286,
+                736
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                295,
+                705,
+                349,
+                736
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                358,
+                705,
+                395,
+                736
+              ]
+            },
+            {
+              "text": "avoided",
+              "bbox": [
+                404,
+                705,
+                521,
+                736
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                529,
+                705,
+                556,
+                736
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                565,
+                705,
+                614,
+                736
+              ]
+            },
+            {
+              "text": "future.",
+              "bbox": [
+                622,
+                705,
+                721,
+                736
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                730,
+                705,
+                793,
+                736
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                801,
+                705,
+                894,
+                736
+              ]
+            },
+            {
+              "text": "breaks",
+              "bbox": [
+                902,
+                705,
+                1004,
+                736
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                1012,
+                705,
+                1060,
+                736
+              ]
+            },
+            {
+              "text": "barriers",
+              "bbox": [
+                118,
+                742,
+                235,
+                774
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                243,
+                742,
+                299,
+                774
+              ]
+            },
+            {
+              "text": "drawbacks",
+              "bbox": [
+                307,
+                742,
+                472,
+                774
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                480,
+                742,
+                510,
+                774
+              ]
+            },
+            {
+              "text": "traditional",
+              "bbox": [
+                519,
+                742,
+                670,
+                774
+              ]
+            },
+            {
+              "text": "Fire",
+              "bbox": [
+                678,
+                742,
+                734,
+                774
+              ]
+            },
+            {
+              "text": "Alarm",
+              "bbox": [
+                743,
+                742,
+                831,
+                774
+              ]
+            },
+            {
+              "text": "Systems",
+              "bbox": [
+                840,
+                742,
+                967,
+                774
+              ]
+            },
+            {
+              "text": "through",
+              "bbox": [
+                976,
+                742,
+                1092,
+                774
+              ]
+            },
+            {
+              "text": "modern",
+              "bbox": [
+                118,
+                780,
+                234,
+                811
+              ]
+            },
+            {
+              "text": "technological",
+              "bbox": [
+                243,
+                780,
+                444,
+                811
+              ]
+            },
+            {
+              "text": "integrations.",
+              "bbox": [
+                453,
+                780,
+                639,
+                811
+              ]
+            },
+            {
+              "text": "This",
+              "bbox": [
+                648,
+                780,
+                711,
+                811
+              ]
+            },
+            {
+              "text": "model",
+              "bbox": [
+                719,
+                780,
+                812,
+                811
+              ]
+            },
+            {
+              "text": "can",
+              "bbox": [
+                821,
+                780,
+                875,
+                811
+              ]
+            },
+            {
+              "text": "also",
+              "bbox": [
+                884,
+                780,
+                945,
+                811
+              ]
+            },
+            {
+              "text": "be",
+              "bbox": [
+                954,
+                780,
+                991,
+                811
+              ]
+            },
+            {
+              "text": "used",
+              "bbox": [
+                1000,
+                780,
+                1072,
+                811
+              ]
+            },
+            {
+              "text": "to",
+              "bbox": [
+                1081,
+                780,
+                1111,
+                811
+              ]
+            },
+            {
+              "text": "alert",
+              "bbox": [
+                118,
+                817,
+                185,
+                849
+              ]
+            },
+            {
+              "text": "remote",
+              "bbox": [
+                194,
+                817,
+                300,
+                849
+              ]
+            },
+            {
+              "text": "users",
+              "bbox": [
+                309,
+                817,
+                391,
+                849
+              ]
+            },
+            {
+              "text": "through",
+              "bbox": [
+                399,
+                817,
+                516,
+                849
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                525,
+                817,
+                542,
+                849
+              ]
+            },
+            {
+              "text": "Wi-Fi",
+              "bbox": [
+                551,
+                817,
+                628,
+                849
+              ]
+            },
+            {
+              "text": "module(ESP8266/ESP32)",
+              "bbox": [
+                637,
+                817,
+                1005,
+                849
+              ]
+            },
+            {
+              "text": "or",
+              "bbox": [
+                1014,
+                817,
+                1045,
+                849
+              ]
+            },
+            {
+              "text": "a",
+              "bbox": [
+                1053,
+                817,
+                1071,
+                849
+              ]
+            },
+            {
+              "text": "GSM",
+              "bbox": [
+                118,
+                855,
+                191,
+                886
+              ]
+            },
+            {
+              "text": "module",
+              "bbox": [
+                199,
+                855,
+                310,
+                886
+              ]
+            },
+            {
+              "text": "making",
+              "bbox": [
+                319,
+                855,
+                429,
+                886
+              ]
+            },
+            {
+              "text": "it",
+              "bbox": [
+                438,
+                855,
+                457,
+                886
+              ]
+            },
+            {
+              "text": "highly",
+              "bbox": [
+                465,
+                855,
+                554,
+                886
+              ]
+            },
+            {
+              "text": "flexible.",
+              "bbox": [
+                563,
+                855,
+                678,
+                886
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                932,
+                129,
+                963
+              ]
+            },
+            {
+              "text": "ACHIEVEMENTS",
+              "bbox": [
+                144,
+                930,
+                392,
+                961
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                141,
+                1006,
+                150,
+                1032
+              ]
+            },
+            {
+              "text": "Prakalp",
+              "bbox": [
+                193,
+                1004,
+                282,
+                1030
+              ]
+            },
+            {
+              "text": "(Pioneer-24)",
+              "bbox": [
+                290,
+                1004,
+                430,
+                1030
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                141,
+                1070,
+                150,
+                1097
+              ]
+            },
+            {
+              "text": "Math",
+              "bbox": [
+                193,
+                1068,
+                253,
+                1095
+              ]
+            },
+            {
+              "text": "Day",
+              "bbox": [
+                260,
+                1068,
+                306,
+                1095
+              ]
+            },
+            {
+              "text": "2024",
+              "bbox": [
+                313,
+                1068,
+                372,
+                1095
+              ]
+            },
+            {
+              "text": "(SAMKALANAM):",
+              "bbox": [
+                379,
+                1068,
+                582,
+                1095
+              ]
+            },
+            {
+              "text": "1st",
+              "bbox": [
+                589,
+                1068,
+                625,
+                1095
+              ]
+            },
+            {
+              "text": "Runner-Up",
+              "bbox": [
+                632,
+                1068,
+                760,
+                1095
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                768,
+                1068,
+                788,
+                1095
+              ]
+            },
+            {
+              "text": "Treasure",
+              "bbox": [
+                795,
+                1068,
+                894,
+                1095
+              ]
+            },
+            {
+              "text": "Hunt",
+              "bbox": [
+                902,
+                1068,
+                958,
+                1095
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                965,
+                1068,
+                988,
+                1095
+              ]
+            },
+            {
+              "text": "SAMKALANAM-2024",
+              "bbox": [
+                193,
+                1100,
+                444,
+                1126
+              ]
+            },
+            {
+              "text": "as",
+              "bbox": [
+                451,
+                1100,
+                478,
+                1126
+              ]
+            },
+            {
+              "text": "part",
+              "bbox": [
+                485,
+                1100,
+                532,
+                1126
+              ]
+            },
+            {
+              "text": "of",
+              "bbox": [
+                539,
+                1100,
+                562,
+                1126
+              ]
+            },
+            {
+              "text": "Math",
+              "bbox": [
+                570,
+                1100,
+                629,
+                1126
+              ]
+            },
+            {
+              "text": "Day-2024",
+              "bbox": [
+                637,
+                1100,
+                751,
+                1126
+              ]
+            },
+            {
+              "text": "celebrations",
+              "bbox": [
+                758,
+                1100,
+                902,
+                1126
+              ]
+            },
+            {
+              "text": "organized",
+              "bbox": [
+                909,
+                1100,
+                1024,
+                1126
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                1031,
+                1100,
+                1060,
+                1126
+              ]
+            },
+            {
+              "text": "Science",
+              "bbox": [
+                193,
+                1131,
+                287,
+                1157
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                294,
+                1131,
+                339,
+                1157
+              ]
+            },
+            {
+              "text": "Humanities",
+              "bbox": [
+                346,
+                1131,
+                478,
+                1157
+              ]
+            },
+            {
+              "text": "Department",
+              "bbox": [
+                485,
+                1131,
+                624,
+                1157
+              ]
+            },
+            {
+              "text": "(S&H),",
+              "bbox": [
+                631,
+                1131,
+                704,
+                1157
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                712,
+                1131,
+                762,
+                1157
+              ]
+            },
+            {
+              "text": "University.",
+              "bbox": [
+                769,
+                1131,
+                890,
+                1157
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                141,
+                1198,
+                150,
+                1224
+              ]
+            },
+            {
+              "text": "Good",
+              "bbox": [
+                193,
+                1195,
+                259,
+                1222
+              ]
+            },
+            {
+              "text": "Coder",
+              "bbox": [
+                266,
+                1195,
+                339,
+                1222
+              ]
+            },
+            {
+              "text": "Competition",
+              "bbox": [
+                346,
+                1195,
+                490,
+                1222
+              ]
+            },
+            {
+              "text": "(GCC)",
+              "bbox": [
+                497,
+                1195,
+                569,
+                1222
+              ]
+            },
+            {
+              "text": "Hackathon:",
+              "bbox": [
+                576,
+                1195,
+                711,
+                1222
+              ]
+            },
+            {
+              "text": "Secured",
+              "bbox": [
+                718,
+                1195,
+                816,
+                1222
+              ]
+            },
+            {
+              "text": "14th",
+              "bbox": [
+                823,
+                1195,
+                875,
+                1222
+              ]
+            },
+            {
+              "text": "rank",
+              "bbox": [
+                882,
+                1195,
+                933,
+                1222
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                941,
+                1195,
+                961,
+                1222
+              ]
+            },
+            {
+              "text": "Good",
+              "bbox": [
+                968,
+                1195,
+                1034,
+                1222
+              ]
+            },
+            {
+              "text": "Coder",
+              "bbox": [
+                1041,
+                1195,
+                1114,
+                1222
+              ]
+            },
+            {
+              "text": "Competition",
+              "bbox": [
+                193,
+                1227,
+                337,
+                1253
+              ]
+            },
+            {
+              "text": "(GCC)",
+              "bbox": [
+                344,
+                1227,
+                416,
+                1253
+              ]
+            },
+            {
+              "text": "Hackathon",
+              "bbox": [
+                423,
+                1227,
+                551,
+                1253
+              ]
+            },
+            {
+              "text": "at",
+              "bbox": [
+                558,
+                1227,
+                580,
+                1253
+              ]
+            },
+            {
+              "text": "PES",
+              "bbox": [
+                588,
+                1227,
+                638,
+                1253
+              ]
+            },
+            {
+              "text": "University,",
+              "bbox": [
+                645,
+                1227,
+                766,
+                1253
+              ]
+            },
+            {
+              "text": "organized",
+              "bbox": [
+                773,
+                1227,
+                888,
+                1253
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                895,
+                1227,
+                924,
+                1253
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                931,
+                1227,
+                968,
+                1253
+              ]
+            },
+            {
+              "text": "Science",
+              "bbox": [
+                976,
+                1227,
+                1070,
+                1253
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                193,
+                1258,
+                238,
+                1284
+              ]
+            },
+            {
+              "text": "Humanities",
+              "bbox": [
+                245,
+                1258,
+                377,
+                1284
+              ]
+            },
+            {
+              "text": "Department",
+              "bbox": [
+                384,
+                1258,
+                522,
+                1284
+              ]
+            },
+            {
+              "text": "(S&H).",
+              "bbox": [
+                530,
+                1258,
+                603,
+                1284
+              ]
+            },
+            {
+              "text": "The",
+              "bbox": [
+                610,
+                1258,
+                654,
+                1284
+              ]
+            },
+            {
+              "text": "competition",
+              "bbox": [
+                662,
+                1258,
+                801,
+                1284
+              ]
+            },
+            {
+              "text": "saw",
+              "bbox": [
+                808,
+                1258,
+                855,
+                1284
+              ]
+            },
+            {
+              "text": "over",
+              "bbox": [
+                862,
+                1258,
+                913,
+                1284
+              ]
+            },
+            {
+              "text": "342",
+              "bbox": [
+                921,
+                1258,
+                964,
+                1284
+              ]
+            },
+            {
+              "text": "registrations,",
+              "bbox": [
+                193,
+                1289,
+                345,
+                1315
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                352,
+                1289,
+                396,
+                1315
+              ]
+            },
+            {
+              "text": "the",
+              "bbox": [
+                404,
+                1289,
+                441,
+                1315
+              ]
+            },
+            {
+              "text": "top",
+              "bbox": [
+                448,
+                1289,
+                487,
+                1315
+              ]
+            },
+            {
+              "text": "50",
+              "bbox": [
+                494,
+                1289,
+                523,
+                1315
+              ]
+            },
+            {
+              "text": "participants",
+              "bbox": [
+                531,
+                1289,
+                669,
+                1315
+              ]
+            },
+            {
+              "text": "were",
+              "bbox": [
+                676,
+                1289,
+                732,
+                1315
+              ]
+            },
+            {
+              "text": "recognized.",
+              "bbox": [
+                740,
+                1289,
+                876,
+                1315
+              ]
+            },
+            {
+              "text": "•",
+              "bbox": [
+                118,
+                1355,
+                129,
+                1386
+              ]
+            },
+            {
+              "text": "CERTIFICATIONS",
+              "bbox": [
+                137,
+                1353,
+                384,
+                1384
+              ]
+            },
+            {
+              "text": "◦",
+              "bbox": [
+                141,
+                1390,
+                155,
+                1414
+              ]
+            },
+            {
+              "text": "Problem",
+              "bbox": [
+                193,
+                1387,
+                284,
+                1411
+              ]
+            },
+            {
+              "text": "Solving",
+              "bbox": [
+                290,
+                1387,
+                370,
+                1411
+              ]
+            },
+            {
+              "text": "BY",
+              "bbox": [
+                377,
+                1387,
+                409,
+                1411
+              ]
+            },
+            {
+              "text": "Hackerrank",
+              "bbox": [
+                416,
+                1387,
+                540,
+                1411
+              ]
+            },
+            {
+              "text": "◦",
+              "bbox": [
+                141,
+                1450,
+                155,
+                1474
+              ]
+            },
+            {
+              "text": "Career",
+              "bbox": [
+                193,
+                1448,
+                265,
+                1472
+              ]
+            },
+            {
+              "text": "Essentials",
+              "bbox": [
+                272,
+                1448,
+                381,
+                1472
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                387,
+                1448,
+                406,
+                1472
+              ]
+            },
+            {
+              "text": "Cybersecurity",
+              "bbox": [
+                413,
+                1448,
+                562,
+                1472
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                569,
+                1448,
+                596,
+                1472
+              ]
+            },
+            {
+              "text": "Microsoft",
+              "bbox": [
+                602,
+                1448,
+                704,
+                1472
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                711,
+                1448,
+                751,
+                1472
+              ]
+            },
+            {
+              "text": "LinkedIn",
+              "bbox": [
+                758,
+                1448,
+                850,
+                1472
+              ]
+            },
+            {
+              "text": "◦",
+              "bbox": [
+                141,
+                1510,
+                155,
+                1535
+              ]
+            },
+            {
+              "text": "Career",
+              "bbox": [
+                193,
+                1508,
+                265,
+                1532
+              ]
+            },
+            {
+              "text": "Essentials",
+              "bbox": [
+                272,
+                1508,
+                381,
+                1532
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                387,
+                1508,
+                406,
+                1532
+              ]
+            },
+            {
+              "text": "Data",
+              "bbox": [
+                413,
+                1508,
+                464,
+                1532
+              ]
+            },
+            {
+              "text": "Analysis",
+              "bbox": [
+                470,
+                1508,
+                559,
+                1532
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                566,
+                1508,
+                592,
+                1532
+              ]
+            },
+            {
+              "text": "Microsoft",
+              "bbox": [
+                599,
+                1508,
+                701,
+                1532
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                708,
+                1508,
+                748,
+                1532
+              ]
+            },
+            {
+              "text": "LinkedIn",
+              "bbox": [
+                755,
+                1508,
+                847,
+                1532
+              ]
+            },
+            {
+              "text": "◦",
+              "bbox": [
+                141,
+                1571,
+                155,
+                1595
+              ]
+            },
+            {
+              "text": "Career",
+              "bbox": [
+                193,
+                1568,
+                265,
+                1593
+              ]
+            },
+            {
+              "text": "Essentials",
+              "bbox": [
+                272,
+                1568,
+                381,
+                1593
+              ]
+            },
+            {
+              "text": "in",
+              "bbox": [
+                387,
+                1568,
+                406,
+                1593
+              ]
+            },
+            {
+              "text": "Generative",
+              "bbox": [
+                413,
+                1568,
+                530,
+                1593
+              ]
+            },
+            {
+              "text": "AI",
+              "bbox": [
+                537,
+                1568,
+                558,
+                1593
+              ]
+            },
+            {
+              "text": "by",
+              "bbox": [
+                565,
+                1568,
+                592,
+                1593
+              ]
+            },
+            {
+              "text": "Microsoft",
+              "bbox": [
+                598,
+                1568,
+                700,
+                1593
+              ]
+            },
+            {
+              "text": "and",
+              "bbox": [
+                707,
+                1568,
+                747,
+                1593
+              ]
+            },
+            {
+              "text": "LinkedIn",
+              "bbox": [
+                754,
+                1568,
+                846,
+                1593
+              ]
+            }
+          ],
+          "tables": [
+            {
+              "rows": [
+                [
+                  "Prakalp (Pioneer-24)"
+                ],
+                [
+                  "Math Day 2024 (SAMKALANAM): 1st Runner-Up in Treasure Hunt of"
+                ],
+                [
+                  "SAMKALANAM-2024 as part of Math Day-2024 celebrations organized by"
+                ],
+                [
+                  "Science and Humanities Department (S&H), PES University."
+                ],
+                [
+                  "Good Coder Competition (GCC) Hackathon: Secured 14th rank in Good Coder"
+                ],
+                [
+                  "Competition (GCC) Hackathon at PES University, organized by the Science"
+                ],
+                [
+                  "and Humanities Department (S&H). The competition saw over 342"
+                ],
+                [
+                  "registrations, and the top 50 participants were recognized."
+                ]
+              ]
+            },
+            {
+              "rows": [
+                [
+                  "Problem Solving BY Hackerrank"
+                ],
+                [
+                  "Career Essentials in Cybersecurity by Microsoft and LinkedIn"
+                ],
+                [
+                  ""
+                ],
+                [
+                  "Career Essentials in Data Analysis by Microsoft and LinkedIn"
+                ],
+                [
+                  ""
+                ],
+                [
+                  "Career Essentials in Generative AI by Microsoft and LinkedIn"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "summary_markdown": "## pdfplumber - page 0 text\n\n```\nMeeting Notes - 16/09/2025\n• 5th Sem, B.Tech CSE (AI & ML) @ PES University\n• Remote/Hybrid Fall, Winter and Summer - 2026 (On-Site)\n• SDE, Summer Analyst, AI, ML, DS, CyberSec, UI/UX/FullStackDev,\nBlockchain, IoT\n• Machine Learning, Cyber Security, Stack Devlopment\n• Bishop Cotton Boys’ School, Bengaluru ICSE 10th - 95.16%\nBASE PU College Rajajinagar, Bengaluru Kar State, PU XII - 94.5%\n• KCET 2023 -> PES University\n• Linux Dev > C/C++ Dev > Firmware Dev | 25k-40k+| 8(2 mon)-12mon\n• Research :\n“Radiation pollution and its impact on living creatures in and around\nBangalore”, Dr. Revanasiddappa M, Dept. of S & H, PES University,\nmade a prototype, 2nd Runner Up, Prakalp (Pioneer-2024), Hackathon/\nProject/Innovation/Startup Presentation Competition, KITCoE,\nKolhapur, Paper yet to be published.\n“Facial Paralysis Detection and Recovery Tracking Using Deep\nLearning and Digital Twin Models”, Dr. Pooja Agarwal, Capstone\n“Multimodal Generative Augmentation + Cross-Modal Learning for\nBipolar Disorder”, Dr. Arti Arya, Charperson Dept. of CSE (AI & ML),\nPES Univerity, AFML\n“Education Analytics: Linking Study Habits to Academic Performance,\npredictive models”, Dr. Suja CM, Dept. of CSE, PES Univeristy\n• Projects :\nFitium - Python based Fitness Monitoring System which aims at providing a Fitness\nTracker cum Analyzer using weight, height, steps etc for modern health analysis such as Heart\nRate assessment, BMI Calculation etc. It is a customizable lightweight application.\nMedSnap\n- MedSnap is a hospital management system developed using MERN stack and\nMongoDB. The system includes modern APIs, multiple Login Methods, Patient Profile, Scan\nReports, Receipts, Prescription etc. Integrated a QR based login system for easy patient access.\nLearnHub - E-Learning Platform, DBMS\nCRM App - Customer Relations Management System, SE\n```\n"
+}

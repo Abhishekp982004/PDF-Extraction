@@ -1,0 +1,70 @@
+{
+  "filename": "eb60b16c47cd49a2a6fa58465bb01039_1-3 Sa 1 Nalikali Question Papers -1.pdf",
+  "models": {
+    "pdfplumber": {
+      "pages": [
+        {
+          "page_number": 0,
+          "width_pts": 612,
+          "height_pts": 792,
+          "width_px": 1275,
+          "height_px": 1650,
+          "text": "",
+          "words": [],
+          "tables": []
+        },
+        {
+          "page_number": 1,
+          "width_pts": 612,
+          "height_pts": 792,
+          "width_px": 1275,
+          "height_px": 1650,
+          "text": "",
+          "words": [],
+          "tables": []
+        },
+        {
+          "page_number": 2,
+          "width_pts": 612,
+          "height_pts": 792,
+          "width_px": 1275,
+          "height_px": 1650,
+          "text": "",
+          "words": [],
+          "tables": []
+        },
+        {
+          "page_number": 3,
+          "width_pts": 612,
+          "height_pts": 792,
+          "width_px": 1275,
+          "height_px": 1650,
+          "text": "",
+          "words": [],
+          "tables": []
+        },
+        {
+          "page_number": 4,
+          "width_pts": 612,
+          "height_pts": 792,
+          "width_px": 1275,
+          "height_px": 1650,
+          "text": "",
+          "words": [],
+          "tables": []
+        },
+        {
+          "page_number": 5,
+          "width_pts": 612,
+          "height_pts": 792,
+          "width_px": 1275,
+          "height_px": 1650,
+          "text": "",
+          "words": [],
+          "tables": []
+        }
+      ]
+    }
+  },
+  "summary_markdown": "## pdfplumber - page 0 text\n\n```\n\n```\n"
+}

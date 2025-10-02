@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pytesseract
+pdf2image
+pillow
+pdfplumber
+surya-ocr
+torch
