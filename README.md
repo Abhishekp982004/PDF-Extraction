@@ -55,11 +55,7 @@ A full-stack playground for PDF text and table extraction, featuring a Next.js f
 To demonstrate features:
 - Capture screenshots or GIFs during file upload, extraction, preview, and result display.
 - Store them in `/public` or `/docs`
-- Embed in markdown:
-    ```
-    
-    See all screenshots and demo GIFs in [trial.pdf](./trial.pdf)
-    ```
+See all screenshots and demo GIFs in [trial.pdf](./trial.pdf)
 
 ## Example Usage
 
